@@ -9,7 +9,7 @@ namespace Clases
 {
     public class Arbol
     {
-        private Nodo raiz_principal = null;
+        public Nodo raiz_principal = null;
 
         public void Insertar(Persona p)
         {

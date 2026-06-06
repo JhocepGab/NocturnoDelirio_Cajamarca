@@ -10,7 +10,7 @@ namespace Clases
 
     public class ListaCitas
     {
-        private NodoCita primero = null;
+        public NodoCita primero = null;
 
         public void InsertarOrdenado(Cita c)
         {

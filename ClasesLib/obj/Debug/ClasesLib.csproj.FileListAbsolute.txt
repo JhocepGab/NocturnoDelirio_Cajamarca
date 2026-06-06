@@ -4,3 +4,9 @@ C:\Users\jhose\Downloads\NocturnoDelirioSolution_v2_final\NocturnoDelirioSolutio
 C:\Users\jhose\Downloads\NocturnoDelirioSolution_v2_final\NocturnoDelirioSolution_v2\ClasesLib\obj\Debug\ClasesLib.csproj.CoreCompileInputs.cache
 C:\Users\jhose\Downloads\NocturnoDelirioSolution_v2_final\NocturnoDelirioSolution_v2\ClasesLib\obj\Debug\ClasesLib.dll
 C:\Users\jhose\Downloads\NocturnoDelirioSolution_v2_final\NocturnoDelirioSolution_v2\ClasesLib\obj\Debug\ClasesLib.pdb
+C:\Users\jhose\Downloads\NocturnoDelirio_Cajamarca-master\NocturnoDelirio_Cajamarca-master\ClasesLib\bin\Debug\ClasesLib.dll
+C:\Users\jhose\Downloads\NocturnoDelirio_Cajamarca-master\NocturnoDelirio_Cajamarca-master\ClasesLib\bin\Debug\ClasesLib.pdb
+C:\Users\jhose\Downloads\NocturnoDelirio_Cajamarca-master\NocturnoDelirio_Cajamarca-master\ClasesLib\obj\Debug\ClasesLib.csproj.AssemblyReference.cache
+C:\Users\jhose\Downloads\NocturnoDelirio_Cajamarca-master\NocturnoDelirio_Cajamarca-master\ClasesLib\obj\Debug\ClasesLib.csproj.CoreCompileInputs.cache
+C:\Users\jhose\Downloads\NocturnoDelirio_Cajamarca-master\NocturnoDelirio_Cajamarca-master\ClasesLib\obj\Debug\ClasesLib.dll
+C:\Users\jhose\Downloads\NocturnoDelirio_Cajamarca-master\NocturnoDelirio_Cajamarca-master\ClasesLib\obj\Debug\ClasesLib.pdb
