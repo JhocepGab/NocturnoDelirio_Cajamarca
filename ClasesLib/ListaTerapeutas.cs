@@ -7,20 +7,9 @@ using System.Windows.Forms;
 
 namespace Clases
 {
-    // Nodo de la lista simple de terapeutas
-    public class NodoTerapeuta
-    {
-        public string nombre;
-        public string especialidad;
-        public NodoTerapeuta sig = null;
-    }
-
-    // Lista simple enlazada para registrar terapeutas
     public class ListaTerapeutas
     {
-        private NodoTerapeuta primero = null;
-
-        // Carga las 5 terapeutas predeterminadas
+        public NodoTerapeuta primero = null;
         public ListaTerapeutas()
         {
             AgregarPredeterminadas();

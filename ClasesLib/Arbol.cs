@@ -9,13 +9,13 @@ namespace Clases
 {
     public class Arbol
     {
-        private Nodo raiz_principal = null;
+        public Nodo raiz_principal = null;
 
         public void Insertar(Persona p)
         {
             InsertarRecursivo(ref raiz_principal, p);
         }
-        private void InsertarRecursivo(ref Nodo raiz, Persona p)
+        public void InsertarRecursivo(ref Nodo raiz, Persona p)
         {
             if (raiz == null)
             {
@@ -29,12 +29,10 @@ namespace Clases
             {
                 if (p < raiz.dato)
                 {
-                    //izq
                     InsertarRecursivo(ref raiz.izq, p);
                 }
                 else if (p > raiz.dato)
                 {
-                    //der
                     InsertarRecursivo(ref raiz.der, p);
                 }
                 else
@@ -49,7 +47,7 @@ namespace Clases
             ls.Items.Clear();
             InOrdenRecursivo(raiz_principal, ref ls);
         }
-        private void InOrdenRecursivo(Nodo raiz, ref ListBox ls)
+        public void InOrdenRecursivo(Nodo raiz, ref ListBox ls)
         {
             if (raiz != null)
             {
@@ -66,7 +64,7 @@ namespace Clases
 
             return BuscarRecursivo(raiz_principal, p);
         }
-        private Persona BuscarRecursivo(Nodo raiz, Persona p)
+        public Persona BuscarRecursivo(Nodo raiz, Persona p)
         {
             if (raiz == null)
             {
@@ -76,12 +74,10 @@ namespace Clases
             {
                 if (p < raiz.dato)
                 {
-                    //izq
                     return BuscarRecursivo(raiz.izq, p);
                 }
                 else if (p > raiz.dato)
                 {
-                    //der
                     return BuscarRecursivo(raiz.der, p);
                 }
                 else

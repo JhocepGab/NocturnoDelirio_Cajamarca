@@ -8,14 +8,7 @@ namespace Clases
 {
     public class PilaAcciones
     {
-        private class NodoPila
-        {
-            public string accion;
-            public Cita cita;
-            public NodoPila sig;
-        }
-
-        private NodoPila cima = null;
+        public NodoPila cima = null;
 
         public void Push(string accion, Cita cita)
         {

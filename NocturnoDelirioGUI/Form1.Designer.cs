@@ -103,13 +103,13 @@ namespace GUI
             this.gPacientes.Controls.Add(this.btnRegistrarPaciente);
             this.gPacientes.Controls.Add(this.lbPacientes);
             this.gPacientes.Location = new System.Drawing.Point(16, 15);
-            this.gPacientes.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gPacientes.Margin = new System.Windows.Forms.Padding(4);
             this.gPacientes.Name = "gPacientes";
-            this.gPacientes.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gPacientes.Padding = new System.Windows.Forms.Padding(4);
             this.gPacientes.Size = new System.Drawing.Size(400, 468);
             this.gPacientes.TabIndex = 0;
             this.gPacientes.TabStop = false;
-            this.gPacientes.Text = "Registro de Pacientes (ABB)";
+            this.gPacientes.Text = "Registro de Pacientes ";
             // 
             // lblDNI
             // 
@@ -123,7 +123,7 @@ namespace GUI
             // txtDNI
             // 
             this.txtDNI.Location = new System.Drawing.Point(107, 27);
-            this.txtDNI.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtDNI.Margin = new System.Windows.Forms.Padding(4);
             this.txtDNI.MaxLength = 8;
             this.txtDNI.Name = "txtDNI";
             this.txtDNI.Size = new System.Drawing.Size(159, 22);
@@ -141,7 +141,7 @@ namespace GUI
             // txtNombre
             // 
             this.txtNombre.Location = new System.Drawing.Point(107, 64);
-            this.txtNombre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtNombre.Margin = new System.Windows.Forms.Padding(4);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(265, 22);
             this.txtNombre.TabIndex = 3;
@@ -158,7 +158,7 @@ namespace GUI
             // txtTelefono
             // 
             this.txtTelefono.Location = new System.Drawing.Point(107, 101);
-            this.txtTelefono.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtTelefono.Margin = new System.Windows.Forms.Padding(4);
             this.txtTelefono.Name = "txtTelefono";
             this.txtTelefono.Size = new System.Drawing.Size(265, 22);
             this.txtTelefono.TabIndex = 5;
@@ -166,7 +166,7 @@ namespace GUI
             // btnRegistrarPaciente
             // 
             this.btnRegistrarPaciente.Location = new System.Drawing.Point(107, 138);
-            this.btnRegistrarPaciente.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnRegistrarPaciente.Margin = new System.Windows.Forms.Padding(4);
             this.btnRegistrarPaciente.Name = "btnRegistrarPaciente";
             this.btnRegistrarPaciente.Size = new System.Drawing.Size(173, 32);
             this.btnRegistrarPaciente.TabIndex = 6;
@@ -177,7 +177,7 @@ namespace GUI
             // 
             this.lbPacientes.ItemHeight = 16;
             this.lbPacientes.Location = new System.Drawing.Point(11, 185);
-            this.lbPacientes.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lbPacientes.Margin = new System.Windows.Forms.Padding(4);
             this.lbPacientes.Name = "lbPacientes";
             this.lbPacientes.Size = new System.Drawing.Size(372, 260);
             this.lbPacientes.TabIndex = 7;
@@ -192,13 +192,13 @@ namespace GUI
             this.gTerapeutas.Controls.Add(this.btnEliminarTer);
             this.gTerapeutas.Controls.Add(this.lbTerapeutas);
             this.gTerapeutas.Location = new System.Drawing.Point(429, 15);
-            this.gTerapeutas.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gTerapeutas.Margin = new System.Windows.Forms.Padding(4);
             this.gTerapeutas.Name = "gTerapeutas";
-            this.gTerapeutas.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gTerapeutas.Padding = new System.Windows.Forms.Padding(4);
             this.gTerapeutas.Size = new System.Drawing.Size(400, 468);
             this.gTerapeutas.TabIndex = 1;
             this.gTerapeutas.TabStop = false;
-            this.gTerapeutas.Text = "Registro de Terapeutas (Lista Simple)";
+            this.gTerapeutas.Text = "Registro de Terapeutas ";
             // 
             // lblNombreTer
             // 
@@ -212,7 +212,7 @@ namespace GUI
             // txtNombreTer
             // 
             this.txtNombreTer.Location = new System.Drawing.Point(107, 27);
-            this.txtNombreTer.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtNombreTer.Margin = new System.Windows.Forms.Padding(4);
             this.txtNombreTer.Name = "txtNombreTer";
             this.txtNombreTer.Size = new System.Drawing.Size(265, 22);
             this.txtNombreTer.TabIndex = 1;
@@ -229,7 +229,7 @@ namespace GUI
             // txtEspecialidad
             // 
             this.txtEspecialidad.Location = new System.Drawing.Point(107, 64);
-            this.txtEspecialidad.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtEspecialidad.Margin = new System.Windows.Forms.Padding(4);
             this.txtEspecialidad.Name = "txtEspecialidad";
             this.txtEspecialidad.Size = new System.Drawing.Size(265, 22);
             this.txtEspecialidad.TabIndex = 3;
@@ -238,7 +238,7 @@ namespace GUI
             // btnAgregarTer
             // 
             this.btnAgregarTer.Location = new System.Drawing.Point(107, 101);
-            this.btnAgregarTer.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnAgregarTer.Margin = new System.Windows.Forms.Padding(4);
             this.btnAgregarTer.Name = "btnAgregarTer";
             this.btnAgregarTer.Size = new System.Drawing.Size(120, 32);
             this.btnAgregarTer.TabIndex = 4;
@@ -248,7 +248,7 @@ namespace GUI
             // btnEliminarTer
             // 
             this.btnEliminarTer.Location = new System.Drawing.Point(240, 101);
-            this.btnEliminarTer.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnEliminarTer.Margin = new System.Windows.Forms.Padding(4);
             this.btnEliminarTer.Name = "btnEliminarTer";
             this.btnEliminarTer.Size = new System.Drawing.Size(120, 32);
             this.btnEliminarTer.TabIndex = 5;
@@ -259,7 +259,7 @@ namespace GUI
             // 
             this.lbTerapeutas.ItemHeight = 16;
             this.lbTerapeutas.Location = new System.Drawing.Point(11, 148);
-            this.lbTerapeutas.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lbTerapeutas.Margin = new System.Windows.Forms.Padding(4);
             this.lbTerapeutas.Name = "lbTerapeutas";
             this.lbTerapeutas.Size = new System.Drawing.Size(372, 292);
             this.lbTerapeutas.TabIndex = 6;
@@ -282,9 +282,9 @@ namespace GUI
             this.gCitas.Controls.Add(this.btnDeshacer);
             this.gCitas.Controls.Add(this.lbCitas);
             this.gCitas.Location = new System.Drawing.Point(16, 495);
-            this.gCitas.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gCitas.Margin = new System.Windows.Forms.Padding(4);
             this.gCitas.Name = "gCitas";
-            this.gCitas.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gCitas.Padding = new System.Windows.Forms.Padding(4);
             this.gCitas.Size = new System.Drawing.Size(813, 345);
             this.gCitas.TabIndex = 2;
             this.gCitas.TabStop = false;
@@ -304,7 +304,7 @@ namespace GUI
             this.cmbPaciente.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbPaciente.FormattingEnabled = true;
             this.cmbPaciente.Location = new System.Drawing.Point(107, 31);
-            this.cmbPaciente.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cmbPaciente.Margin = new System.Windows.Forms.Padding(4);
             this.cmbPaciente.Name = "cmbPaciente";
             this.cmbPaciente.Size = new System.Drawing.Size(292, 24);
             this.cmbPaciente.TabIndex = 1;
@@ -323,7 +323,7 @@ namespace GUI
             this.cmbTerapeuta.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbTerapeuta.FormattingEnabled = true;
             this.cmbTerapeuta.Location = new System.Drawing.Point(107, 70);
-            this.cmbTerapeuta.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cmbTerapeuta.Margin = new System.Windows.Forms.Padding(4);
             this.cmbTerapeuta.Name = "cmbTerapeuta";
             this.cmbTerapeuta.Size = new System.Drawing.Size(292, 24);
             this.cmbTerapeuta.TabIndex = 3;
@@ -341,7 +341,7 @@ namespace GUI
             // 
             this.dtpFecha.Format = System.Windows.Forms.DateTimePickerFormat.Short;
             this.dtpFecha.Location = new System.Drawing.Point(480, 31);
-            this.dtpFecha.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dtpFecha.Margin = new System.Windows.Forms.Padding(4);
             this.dtpFecha.Name = "dtpFecha";
             this.dtpFecha.Size = new System.Drawing.Size(139, 22);
             this.dtpFecha.TabIndex = 5;
@@ -358,7 +358,7 @@ namespace GUI
             // txtHora
             // 
             this.txtHora.Location = new System.Drawing.Point(480, 70);
-            this.txtHora.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtHora.Margin = new System.Windows.Forms.Padding(4);
             this.txtHora.Name = "txtHora";
             this.txtHora.Size = new System.Drawing.Size(79, 22);
             this.txtHora.TabIndex = 7;
@@ -367,7 +367,7 @@ namespace GUI
             // rb30
             // 
             this.rb30.Location = new System.Drawing.Point(11, 113);
-            this.rb30.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rb30.Margin = new System.Windows.Forms.Padding(4);
             this.rb30.Name = "rb30";
             this.rb30.Size = new System.Drawing.Size(173, 21);
             this.rb30.TabIndex = 8;
@@ -377,7 +377,7 @@ namespace GUI
             // rb60
             // 
             this.rb60.Location = new System.Drawing.Point(200, 113);
-            this.rb60.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rb60.Margin = new System.Windows.Forms.Padding(4);
             this.rb60.Name = "rb60";
             this.rb60.Size = new System.Drawing.Size(173, 21);
             this.rb60.TabIndex = 9;
@@ -396,7 +396,7 @@ namespace GUI
             // btnVerDisp
             // 
             this.btnVerDisp.Location = new System.Drawing.Point(11, 148);
-            this.btnVerDisp.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnVerDisp.Margin = new System.Windows.Forms.Padding(4);
             this.btnVerDisp.Name = "btnVerDisp";
             this.btnVerDisp.Size = new System.Drawing.Size(173, 32);
             this.btnVerDisp.TabIndex = 11;
@@ -406,7 +406,7 @@ namespace GUI
             // btnReservar
             // 
             this.btnReservar.Location = new System.Drawing.Point(197, 148);
-            this.btnReservar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnReservar.Margin = new System.Windows.Forms.Padding(4);
             this.btnReservar.Name = "btnReservar";
             this.btnReservar.Size = new System.Drawing.Size(120, 32);
             this.btnReservar.TabIndex = 12;
@@ -416,7 +416,7 @@ namespace GUI
             // btnDeshacer
             // 
             this.btnDeshacer.Location = new System.Drawing.Point(331, 148);
-            this.btnDeshacer.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnDeshacer.Margin = new System.Windows.Forms.Padding(4);
             this.btnDeshacer.Name = "btnDeshacer";
             this.btnDeshacer.Size = new System.Drawing.Size(120, 32);
             this.btnDeshacer.TabIndex = 13;
@@ -427,7 +427,7 @@ namespace GUI
             // 
             this.lbCitas.ItemHeight = 16;
             this.lbCitas.Location = new System.Drawing.Point(11, 194);
-            this.lbCitas.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lbCitas.Margin = new System.Windows.Forms.Padding(4);
             this.lbCitas.Name = "lbCitas";
             this.lbCitas.Size = new System.Drawing.Size(785, 132);
             this.lbCitas.TabIndex = 14;
@@ -440,7 +440,7 @@ namespace GUI
             this.Controls.Add(this.gPacientes);
             this.Controls.Add(this.gTerapeutas);
             this.Controls.Add(this.gCitas);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Centro de Psicoterapia y Masajes";
             this.gPacientes.ResumeLayout(false);

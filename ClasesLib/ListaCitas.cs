@@ -7,15 +7,9 @@ using System.Windows.Forms;
 
 namespace Clases
 {
-    public class NodoCita
-    {
-        public Cita dato;
-        public NodoCita sig;
-    }
-
     public class ListaCitas
     {
-        private NodoCita primero = null;
+        public NodoCita primero = null;
 
         public void InsertarOrdenado(Cita c)
         {

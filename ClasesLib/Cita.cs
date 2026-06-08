@@ -12,8 +12,8 @@ namespace Clases
         public string nombrePaciente;
         public string terapeuta;
         public DateTime fechaHoraInicio;
-        public int duracionMin; // 30 o 60
-        public decimal precio;  // S/. 35 o S/. 60
+        public int duracionMin;
+        public decimal precio;
 
         public override string ToString()
         {

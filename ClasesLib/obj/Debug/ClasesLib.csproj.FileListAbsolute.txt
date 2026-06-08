@@ -4,3 +4,9 @@ C:\Users\jhose\Downloads\PsicoterapiaSolution\PsicoterapiaSolution\ClasesLib\obj
 C:\Users\jhose\Downloads\PsicoterapiaSolution\PsicoterapiaSolution\ClasesLib\obj\Debug\ClasesLib.csproj.CoreCompileInputs.cache
 C:\Users\jhose\Downloads\PsicoterapiaSolution\PsicoterapiaSolution\ClasesLib\obj\Debug\ClasesLib.dll
 C:\Users\jhose\Downloads\PsicoterapiaSolution\PsicoterapiaSolution\ClasesLib\obj\Debug\ClasesLib.pdb
+C:\Users\jhose\Downloads\NocturnoDelirio_Cajamarca-master (1)\NocturnoDelirio_Cajamarca-master\ClasesLib\bin\Debug\ClasesLib.dll
+C:\Users\jhose\Downloads\NocturnoDelirio_Cajamarca-master (1)\NocturnoDelirio_Cajamarca-master\ClasesLib\bin\Debug\ClasesLib.pdb
+C:\Users\jhose\Downloads\NocturnoDelirio_Cajamarca-master (1)\NocturnoDelirio_Cajamarca-master\ClasesLib\obj\Debug\ClasesLib.csproj.AssemblyReference.cache
+C:\Users\jhose\Downloads\NocturnoDelirio_Cajamarca-master (1)\NocturnoDelirio_Cajamarca-master\ClasesLib\obj\Debug\ClasesLib.csproj.CoreCompileInputs.cache
+C:\Users\jhose\Downloads\NocturnoDelirio_Cajamarca-master (1)\NocturnoDelirio_Cajamarca-master\ClasesLib\obj\Debug\ClasesLib.dll
+C:\Users\jhose\Downloads\NocturnoDelirio_Cajamarca-master (1)\NocturnoDelirio_Cajamarca-master\ClasesLib\obj\Debug\ClasesLib.pdb
