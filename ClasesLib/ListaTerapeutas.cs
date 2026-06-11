@@ -17,9 +17,9 @@ namespace Clases
         private void AgregarPredeterminadas()
         {
             Agregar("Valeria",    "Masaje Relajante");
-            Agregar("Camila",     "Masaje Descontracturante");
+            Agregar("Lennin",     "Masaje Descontracturante");
             Agregar("Luna",       "Masaje Terapeutico");
-            Agregar("Sofia",      "Masaje Deportivo");
+            Agregar("Matias",      "Masaje Deportivo");
             Agregar("Abril",      "Masaje Reductor");
         }
 
